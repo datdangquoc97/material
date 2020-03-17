@@ -1,0 +1,1 @@
+Link manual: http://ftp.osmocom.org/docs/latest/
